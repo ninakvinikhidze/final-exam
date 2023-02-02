@@ -1,0 +1,13 @@
+
+/* selector {
+    property: value;    
+} */
+
+footer{background-color: antiquewhite;}
+
+body{background-color: rgba(240, 199, 199, 0.88);}
+
+nav, header{display: flex; list-style: none} 
+header{justify-content: space-between;}
+nav, li{gap: 50px;}
+header{padding:0 30px}
